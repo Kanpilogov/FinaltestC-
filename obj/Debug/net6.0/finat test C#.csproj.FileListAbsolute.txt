@@ -1,0 +1,15 @@
+C:\Users\Admim\Desktop\finat test C#\bin\Debug\net6.0\finat test C#.exe
+C:\Users\Admim\Desktop\finat test C#\bin\Debug\net6.0\finat test C#.deps.json
+C:\Users\Admim\Desktop\finat test C#\bin\Debug\net6.0\finat test C#.runtimeconfig.json
+C:\Users\Admim\Desktop\finat test C#\bin\Debug\net6.0\finat test C#.dll
+C:\Users\Admim\Desktop\finat test C#\bin\Debug\net6.0\finat test C#.pdb
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.csproj.AssemblyReference.cache
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.AssemblyInfoInputs.cache
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.AssemblyInfo.cs
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.csproj.CoreCompileInputs.cache
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.dll
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\refint\finat test C#.dll
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.pdb
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\finat test C#.genruntimeconfig.cache
+C:\Users\Admim\Desktop\finat test C#\obj\Debug\net6.0\ref\finat test C#.dll
